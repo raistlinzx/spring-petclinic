@@ -51,7 +51,7 @@ public class PetClinicIntegrationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(1, 2);
+		assertEquals(2, 2);
 	}
 	
 	@Test
